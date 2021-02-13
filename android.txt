@@ -1,0 +1,3 @@
+title=<watchify>
+author=<orucelik>
+orientation=<portrait>
